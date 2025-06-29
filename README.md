@@ -1,0 +1,2 @@
+# Gatsby-strapi
+Initial setup
